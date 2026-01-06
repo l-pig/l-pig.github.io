@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>猫普的精神世界</title>
+    <description>一个独立开发者的精神自留地</description>
+    <link>https://blog.l-pig.cn/</link>
+    <atom:link href="https://blog.l-pig.cn/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    <language>zh-cn</language>
+    <managingEditor>Maplezz</managingEditor>
+    <webMaster>Maplezz</webMaster>
+    <generator>Astro</generator>
+    <ttl>60</ttl>
+
+    <item>
+      <title>文章模板</title>
+      <link>https://blog.l-pig.cn/blog/文章模板/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/文章模板/</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>这是一篇文章模板，用于展示 Markdown 格式的常用语法与组件。</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/demo.BUJBdV7w.jpg" type="image/jpeg" />
+      <category>示例分类</category>
+    </item>
+
+    <item>
+      <title>博客</title>
+      <link>https://blog.l-pig.cn/blog/-index/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
+      <pubDate>Tue, 06 Jan 2026 03:39:17 GMT</pubDate>
+      <author>Maplezz</author>
+      <description>记录 L-Pig 写的文章</description>
+      
+      
+    </item>
+
+  </channel>
+</rss>
