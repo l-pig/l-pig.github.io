@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>猫普的精神世界</title>
-    <description>一个独立开发者的精神自留地</description>
+    <title>L-Pig</title>
+    <description>一个不会写代码的非专业摄影师</description>
     <link>https://blog.l-pig.cn/</link>
     <atom:link href="https://blog.l-pig.cn/rss.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
     <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     <language>zh-cn</language>
-    <managingEditor>Maplezz</managingEditor>
-    <webMaster>Maplezz</webMaster>
+    <managingEditor>L-Pig</managingEditor>
+    <webMaster>L-Pig</webMaster>
     <generator>Astro</generator>
     <ttl>60</ttl>
 
@@ -28,8 +28,8 @@
       <title>博客</title>
       <link>https://blog.l-pig.cn/blog/-index/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
-      <pubDate>Tue, 06 Jan 2026 10:24:51 GMT</pubDate>
-      <author>Maplezz</author>
+      <pubDate>Tue, 06 Jan 2026 10:37:26 GMT</pubDate>
+      <author>L-Pig</author>
       <description>记录 L-Pig 写的文章</description>
       
       
