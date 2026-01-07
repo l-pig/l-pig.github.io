@@ -25,14 +25,14 @@
     </item>
 
     <item>
-      <title>中缀表达式转前缀表达式并计算</title>
-      <link>https://blog.l-pig.cn/blog/prefix_expr/</link>
-      <guid isPermaLink="true">https://blog.l-pig.cn/blog/prefix_expr/</guid>
+      <title>kafka安装、部署、测试</title>
+      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
       <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
       <author>L-Pig</author>
-      <description>使用Golang实现中缀表达式转前缀表达式并计算</description>
-      <enclosure url="https://blog.l-pig.cn/_astro/expr.jVbyXQiQ.png" type="image/jpeg" />
-      <category>Golang</category>
+      <description>kafka安装、部署、测试</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
+      <category>kafka</category>
     </item>
 
     <item>
@@ -47,21 +47,21 @@
     </item>
 
     <item>
-      <title>kafka安装、部署、测试</title>
-      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
-      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
+      <title>中缀表达式转前缀表达式并计算</title>
+      <link>https://blog.l-pig.cn/blog/prefix_expr/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/prefix_expr/</guid>
       <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
       <author>L-Pig</author>
-      <description>kafka安装、部署、测试</description>
-      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
-      <category>kafka</category>
+      <description>使用Golang实现中缀表达式转前缀表达式并计算</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/expr.jVbyXQiQ.png" type="image/jpeg" />
+      <category>Golang</category>
     </item>
 
     <item>
       <title>博客</title>
       <link>https://blog.l-pig.cn/blog/-index/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
-      <pubDate>Wed, 07 Jan 2026 05:13:30 GMT</pubDate>
+      <pubDate>Wed, 07 Jan 2026 07:24:49 GMT</pubDate>
       <author>L-Pig</author>
       <description>记录 L-Pig 写的文章</description>
       
