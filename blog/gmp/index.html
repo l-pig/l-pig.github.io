@@ -207,7 +207,7 @@ M，就会创建新的 M。</li>
 </ul>
 <h2 id="四gmp调度流程">四、GMP调度流程</h2>
 <h3 id="什么是go的调度器">什么是Go的调度器？</h3>
-<p><img src="/src/assets/uploads/go-scheduler.png" alt="go-scheduler.png"></p>
+<p><img src="/assets/uploads/go-scheduler.png" alt="go-scheduler.png"></p>
 <p>源码：<a href="https://github.com/golang/go/blob/master/src/runtime/proc.go" rel="nofollow noopener noreferrer" target="_blank">proc.go</a></p>
 <ul>
 <li>Go scheduler 是 Go runtime 的一部分，它内嵌在 Go 程序里，和 Go 程序一起运行。因此它运行在用户空间，在 kernel 的上一层。</li>
@@ -224,7 +224,7 @@ M，就会创建新的 M。</li>
 10ms，防止其他协程被饿死。</li>
 </ul>
 <h3 id="调度器的生命周期">调度器的生命周期</h3>
-<p><img src="/public/assets/uploads/go-schedule-life.png" alt="go-schedule-life.png"></p>
+<p><img src="/assets/uploads/go-schedule-life.png" alt="go-schedule-life.png"></p>
 <h4 id="m0-和-g0">M0 和 G0</h4>
 <ul>
 <li>M0 是 程序启动后编号为0的主线程，这个 M 对应的实例会在全局变量 runtime.m0(定义在 proc.go 的 m0) 中，M0 负责执行初始化操作和启动第一个
@@ -233,7 +233,7 @@ G。</li>
 G0。在调度或系统调用时会使用 G0 的栈空间，全局变量的 G0 (proc.go 的 g0) 是 M0 的 G0。</li>
 </ul>
 <h3 id="go-func-的调度流程">go func() 的调度流程</h3>
-<p><img src="/src/assets/uploads/gofunc-workflow.png" alt="gofunc-workflow.png"></p>
+<p><img src="/assets/uploads/gofunc-workflow.png" alt="gofunc-workflow.png"></p>
 <ul>
 <li>编译器将<code>go func()</code> 转换成对 <code>runtime.newproc</code> 的调用(在runtime/proc.go 中)。</li>
 <li><strong>newproc</strong> : 切换到 g0 栈调用 <code>newproc1</code>。</li>
