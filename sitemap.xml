@@ -43,13 +43,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.l-pig.cn/page/wechat</loc>
+    <loc>https://blog.l-pig.cn/page/links</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.l-pig.cn/page/links</loc>
+    <loc>https://blog.l-pig.cn/page/wechat</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
