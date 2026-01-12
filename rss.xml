@@ -5,13 +5,24 @@
     <description>一个不会写代码的非专业摄影师</description>
     <link>https://blog.l-pig.cn/</link>
     <atom:link href="https://blog.l-pig.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Jan 2026 00:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
     <language>zh-cn</language>
     <managingEditor>L-Pig</managingEditor>
     <webMaster>L-Pig</webMaster>
     <generator>Astro</generator>
     <ttl>60</ttl>
+
+    <item>
+      <title>MySQL索引失效的几种情况</title>
+      <link>https://blog.l-pig.cn/blog/index-lose-efficacy/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/index-lose-efficacy/</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>MySQL索引失效的几种情况</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/mysql.BNmiDldO.png" type="image/jpeg" />
+      <category>mysql</category>
+    </item>
 
     <item>
       <title>Golang GMP调度模型流程</title>
@@ -33,6 +44,17 @@
       <description>Go常用库</description>
       <enclosure url="https://blog.l-pig.cn/_astro/go-lib.BGazY9pV.png" type="image/jpeg" />
       <category>Golang</category>
+    </item>
+
+    <item>
+      <title>Kafka安装、部署、测试</title>
+      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>Kafka安装、部署、测试</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
+      <category>kafka</category>
     </item>
 
     <item>
@@ -58,21 +80,10 @@
     </item>
 
     <item>
-      <title>Kafka安装、部署、测试</title>
-      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
-      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-      <author>L-Pig</author>
-      <description>Kafka安装、部署、测试</description>
-      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
-      <category>kafka</category>
-    </item>
-
-    <item>
       <title>博客</title>
       <link>https://blog.l-pig.cn/blog/-index/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
-      <pubDate>Thu, 08 Jan 2026 10:47:23 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 11:32:35 GMT</pubDate>
       <author>L-Pig</author>
       <description>记录 L-Pig 写的文章</description>
       
