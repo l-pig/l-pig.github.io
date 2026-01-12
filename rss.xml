@@ -47,17 +47,6 @@
     </item>
 
     <item>
-      <title>Kafka安装、部署、测试</title>
-      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
-      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-      <author>L-Pig</author>
-      <description>Kafka安装、部署、测试</description>
-      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
-      <category>kafka</category>
-    </item>
-
-    <item>
       <title>中缀表达式转前缀表达式并计算</title>
       <link>https://blog.l-pig.cn/blog/prefix_expr/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/prefix_expr/</guid>
@@ -80,10 +69,21 @@
     </item>
 
     <item>
+      <title>Kafka安装、部署、测试</title>
+      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>Kafka安装、部署、测试</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
+      <category>kafka</category>
+    </item>
+
+    <item>
       <title>博客</title>
       <link>https://blog.l-pig.cn/blog/-index/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
-      <pubDate>Mon, 12 Jan 2026 11:32:35 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 11:35:56 GMT</pubDate>
       <author>L-Pig</author>
       <description>记录 L-Pig 写的文章</description>
       
