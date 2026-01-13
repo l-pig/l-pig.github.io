@@ -49,13 +49,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.l-pig.cn/page/links</loc>
+    <loc>https://blog.l-pig.cn/page/about</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.l-pig.cn/page/about</loc>
+    <loc>https://blog.l-pig.cn/page/links</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
