@@ -5,13 +5,24 @@
     <description>一个不会写代码的非专业摄影师</description>
     <link>https://blog.l-pig.cn/</link>
     <atom:link href="https://blog.l-pig.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
     <language>zh-cn</language>
     <managingEditor>L-Pig</managingEditor>
     <webMaster>L-Pig</webMaster>
     <generator>Astro</generator>
     <ttl>60</ttl>
+
+    <item>
+      <title>Golang 单元测试指南</title>
+      <link>https://blog.l-pig.cn/blog/golang-test/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/golang-test/</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>深入了解 Go 语言内置的 testing 包，掌握单元测试、基准测试以及表驱动测试的最佳实践。</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/go-test.nrnPHwCh.png" type="image/jpeg" />
+      <category>Golang</category>
+    </item>
 
     <item>
       <title>Golang 编译优化-减少体积</title>
@@ -69,6 +80,17 @@
     </item>
 
     <item>
+      <title>Kafka安装、部署、测试</title>
+      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
+      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <author>L-Pig</author>
+      <description>Kafka安装、部署、测试</description>
+      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
+      <category>Kafka</category><category>Linux</category>
+    </item>
+
+    <item>
       <title>中缀表达式转前缀表达式并计算</title>
       <link>https://blog.l-pig.cn/blog/prefix_expr/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/prefix_expr/</guid>
@@ -91,21 +113,10 @@
     </item>
 
     <item>
-      <title>Kafka安装、部署、测试</title>
-      <link>https://blog.l-pig.cn/blog/kafka-install/</link>
-      <guid isPermaLink="true">https://blog.l-pig.cn/blog/kafka-install/</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-      <author>L-Pig</author>
-      <description>Kafka安装、部署、测试</description>
-      <enclosure url="https://blog.l-pig.cn/_astro/kafka.Cv9_3xsp.png" type="image/jpeg" />
-      <category>Kafka</category><category>Linux</category>
-    </item>
-
-    <item>
       <title>博客</title>
       <link>https://blog.l-pig.cn/blog/-index/</link>
       <guid isPermaLink="true">https://blog.l-pig.cn/blog/-index/</guid>
-      <pubDate>Mon, 26 Jan 2026 06:43:12 GMT</pubDate>
+      <pubDate>Wed, 04 Feb 2026 02:47:46 GMT</pubDate>
       <author>L-Pig</author>
       <description>记录 L-Pig 写的文章</description>
       
